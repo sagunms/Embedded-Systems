@@ -1,5 +1,5 @@
 Model {
-  Name			  "Project_Task2_4328802_SinghShrestha"
+  Name			  "NewtonRaphsonSquareRootFinder"
   Version		  8.0
   MdlSubVersion		  0
   GraphicalInterface {
@@ -4076,7 +4076,7 @@ Model {
     }
     Annotation {
       SID		      "169"
-      Name		      "Sagun Man SINGH SHRESTHA\n(sagunms)\nUniversity of Wollongong"
+      Name		      "Sagun Man SINGH SHRESTHA\n(sagunms)\nUoW"
       Position		      [884, 140]
       BackgroundColor	      "[0.666667, 1.000000, 0.498039]"
       FontSize		      16
